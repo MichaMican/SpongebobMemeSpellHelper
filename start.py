@@ -26,7 +26,7 @@ while True:
     keyboard.press(Key.caps_lock)
     keyboard.release(Key.caps_lock)
     if randomMode:
-        timeToSleep = random.randrange(1, 400, 1)/1000.0
+        timeToSleep = random.randrange(1, 250, 1)/1000.0
     
     time.sleep(timeToSleep)
     
