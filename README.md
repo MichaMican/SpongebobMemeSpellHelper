@@ -5,7 +5,8 @@ Super simple script that helps you to write SpoNgebOB MemEtEXT by "spamming" the
 
 ## Dependencies
 - [pynput](https://pypi.org/project/pynput/)
-- [time (default python module)](https://docs.python.org/3/library/time.html)
+- time (default python module)
+- random (default python module)
 
 ## How to run
 - If ran on windows or on a linux machine where the script was made executable:
